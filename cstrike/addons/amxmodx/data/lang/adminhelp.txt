@@ -1,0 +1,17 @@
+[en]
+HELP_COMS = AMX Mod X Help: Commands
+HELP_ENTRIES = Entries %d - %d of %d
+HELP_USE_MORE = Use 'amx_help %d' for more
+HELP_USE_BEGIN = Use 'amx_help 1' for begin
+TYPE_HELP = Type 'amx_help' in the console to see available commands
+TIME_INFO_1 = Time Left: %d:%02d min. Next Map: %s
+TIME_INFO_2 = No Time Limit. Next Map: %s
+
+[cn]
+HELP_COMS = AMX Mod X 帮助: 命令
+HELP_ENTRIES = 目前第 %d 条 - %d 条,共 %d 条
+HELP_USE_MORE = 输入'amx_help %d'查看更多
+HELP_USE_BEGIN = 输入'amx_help 1'回到首页
+TYPE_HELP = 在控制台输入'amx_help'来查看可用的命令
+TIME_INFO_1 = 剩余时间: %d:%02d 分钟。下一张地图: %s
+TIME_INFO_2 = 无时间限制。下一张地图: %s

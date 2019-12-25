@@ -1,0 +1,11 @@
+L 12/22/2010 - 02:11:00: Log file started (file "logs\L1222000.log") (game "cstrike") (version "47/1.1.2.6/3647")
+L 12/22/2010 - 02:11:00: Server cvar "pausable" = "1"
+L 12/22/2010 - 02:11:05: [META] ini: Begin re-reading plugins list: d:/server.eallion.com/cstrike/addons/metamod/plugins.ini
+L 12/22/2010 - 02:11:05: [META] ini: Read plugin config for: AMX Mod X
+L 12/22/2010 - 02:11:05: [META] ini: Read plugin config for: WinHL-Booster
+L 12/22/2010 - 02:11:05: [META] ini: Read plugin config for: sXe Injected
+L 12/22/2010 - 02:11:05: [META] ini: Finished reading plugins list: d:/server.eallion.com/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 12/22/2010 - 02:11:05: [META] dll: Updating plugins...
+L 12/22/2010 - 02:11:05: [META] dll: Finished updating 7 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 12/22/2010 - 02:11:05: Server shutdown
+L 12/22/2010 - 02:11:05: Log file closed

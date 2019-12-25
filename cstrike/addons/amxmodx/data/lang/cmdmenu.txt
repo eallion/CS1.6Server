@@ -1,0 +1,19 @@
+[en]
+CMD_MENU = Commands Menu
+CONF_MENU = Configs Menu
+SPE_MENU = Speech Menu
+CVAR_MENU = Cvar Menu 
+RESTART_HINT = ADMIN %s: Server will restart round three times.
+RESTART_1 = [1st restart round] Server will restart round in 1 second (the 1st).
+RESTART_2 = [2nd restart round] Server will restart round in 2 seconds (the 2nd).
+RESTART_3 = [3rd restart round] Server will restart round in 3 seconds (the 3rd).
+
+[cn]
+CMD_MENU = 命令菜单
+CONF_MENU = 配置菜单
+SPE_MENU = 语音菜单
+CVAR_MENU = 参数菜单
+RESTART_HINT = 管理员 %s: 服务器将刷新三次
+RESTART_1 = [第一次刷新] |- 服务器将在 1 秒后刷新第一次 -|
+RESTART_2 = [第二次刷新] |- 服务器将在 2 秒后刷新第二次 -|
+RESTART_3 = [第三次刷新] |- 服务器将在 3 秒后刷新第三次 -|

@@ -1,0 +1,21 @@
+[en]
+LANG_NOT_EXISTS = The language does not exist
+PERSO_LANG = Personal Language
+LANG_MENU = Language Menu
+SERVER_LANG = Server Language
+SAVE_LANG = Save Language
+SET_LANG_SERVER = The server language has been set to "%s"
+SET_LANG_USER = Your language has been set to "%s"
+TYPE_LANGMENU = Type 'amx_langmenu' in the console to display a menu where you can choose your language
+LANG_MENU_DISABLED = Language menu disabled.
+
+[cn]
+LANG_NOT_EXISTS = 该语言不存在
+PERSO_LANG = 个人语言
+LANG_MENU = 语言菜单
+SERVER_LANG = 服务器语言
+SAVE_LANG = 保存语言设置
+SET_LANG_SERVER = 服务器语言被设置为 "%s"
+SET_LANG_USER = 你的语言被设置为 "%s"
+TYPE_LANGMENU = 在控制台输入'amx_langmenu'打开语言菜单来选择你的语言
+LANG_MENU_DISABLED = 语言菜单已关闭

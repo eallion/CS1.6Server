@@ -1,0 +1,28 @@
+默认OP: o3o4o5.com
+
+服务器的详细设置请参照： cstrike/server.cfg 文件提示来
+
+常用命令（在CS里输入，如果在服务端控制台输入 不需要rcon）：
+
+rcon r3  自动R3 自动加载ESL标准参数
+rcon dao 拼刀局
+rcon 6r3 加时赛设置
+rcon fun 娱乐练枪设置
+
+rcon_password 密码 （输入OP密码）
+rcon r3 （超级R3 自动加载CPL参数）
+rcon reload （重载服务器）
+rcon maps * （查看服务器地图，包含了大多数练枪图）
+rcon changelevel 地图名称 （更换地图）
+
+
+
+无限o3o4o5训练插件默认是关闭的
+
+rcon o3o4o5_xl 1 开启插件  （默认关闭）  0 关闭
+
+rcon o3o4o5_o3 1 开启无限o3（默认开启）  0 关闭
+rcon o3o4o5_o4 1 开启无限o4（默认开启）  0 关闭
+rcon o3o4o5_o5 1 开启无限o5（默认开启）  0 关闭
+
+say /rs 存点 死亡后自动回到该点

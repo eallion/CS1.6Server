@@ -1,0 +1,47 @@
+[en]
+RESULT_REF = Result refused
+RESULT_ACC = Result accepted
+VOTE_SUCCESS = Voting successful. Map will be changed to
+VOTE_FAILED = Voting failed
+THE_WINNER = The winner
+WANT_CONT = Do you want to continue?
+VOT_CANC = Voting has been canceled
+X_VOTED_FOR = %s voted for option #%d
+VOTEMAP_MENU = Votemap Menu
+START_VOT = Start Voting
+SEL_MAPS = Selected Maps
+ALREADY_VOT = There is already one voting...
+NO_MAPS_MENU = There are no maps in menu
+VOT_NOW_ALLOW = Voting not allowed at this time
+WHICH_MAP = Which map do you want?
+CHANGE_MAP_TO = Change map to
+CANC_VOTE = Cancel Vote
+ADMIN_V_MAP_1 = ADMIN: vote map(s)
+ADMIN_V_MAP_2 = ADMIN %s: vote map(s)
+ADMIN_CHANGEL_1 = ADMIN: changelevel %s
+ADMIN_CHANGEL_2 = ADMIN %s: changelevel %s
+CHANGLE_MENU = Changelevel Menu
+
+[cn]
+RESULT_REF = 投票被否决
+RESULT_ACC = 投票被通过
+VOTE_SUCCESS = 投票成功. 地图将被更换为
+VOTE_FAILED = 投票没有通过
+THE_WINNER = 胜利者
+WANT_CONT = 你是否想继续?
+VOT_CANC = 投票已被取消
+X_VOTED_FOR = %s 选择选项 #%d
+VOTEMAP_MENU = 地图投票菜单
+START_VOT = 开始投票
+SEL_MAPS = 选择地图
+ALREADY_VOT = 已经有一个投票在进行中...
+NO_MAPS_MENU = 菜单中没有地图
+VOT_NOW_ALLOW = 现在未允许举行投票
+WHICH_MAP = 你想换哪张地图?
+CHANGE_MAP_TO = 更换地图为
+CANC_VOTE = 取消投票
+ADMIN_V_MAP_1 = 管理员: 举行地图投票
+ADMIN_V_MAP_2 = 管理员 %s: 举行地图投票
+ADMIN_CHANGEL_1 = 管理员: 更换地图 %s
+ADMIN_CHANGEL_2 = 管理员 %s: 更换地图 %s
+CHANGLE_MENU = 更换地图菜单

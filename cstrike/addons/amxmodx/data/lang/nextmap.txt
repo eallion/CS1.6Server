@@ -1,0 +1,9 @@
+[en]
+NEXT_MAP = Next Map
+PLAYED_MAP = Played map
+FRIEND_FIRE = Friendly fire
+
+[cn]
+NEXT_MAP = 下一张地图
+PLAYED_MAP = 当前地图
+FRIEND_FIRE = 友军伤害

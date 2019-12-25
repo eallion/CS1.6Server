@@ -1,0 +1,25 @@
+[en]
+NICK_ANSI = Nick
+KILLS_ANSI = Kills
+DEATHS_ANSI = Deaths
+HITS_ANSI = Hits
+SHOTS_ANSI= Shots
+HS_ANSI = hs
+EFF_ANSI = Eff.
+ACC_ANSI = Acc.
+WITH_HS_ANSI = with hs
+DAMAGE_ANSI = Damage
+WEAPON_ANSI = Weapon
+
+[cn]
+NICK_ANSI = 昵称
+KILLS_ANSI = 杀敌
+DEATHS_ANSI = 死亡
+HITS_ANSI = 击中
+SHOTS_ANSI = 开枪
+HS_ANSI = 爆头
+EFF_ANSI = 生存率
+ACC_ANSI = 命中率
+WITH_HS_ANSI = 爆头
+DAMAGE_ANSI = 伤害
+WEAPON_ANSI = 武器

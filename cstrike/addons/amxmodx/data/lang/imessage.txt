@@ -1,0 +1,5 @@
+[en]
+INF_REACH = Information Messages limit reached!
+
+[cn]
+INF_REACH = 信息消息达到极限！

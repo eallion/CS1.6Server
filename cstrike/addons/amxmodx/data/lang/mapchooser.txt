@@ -1,0 +1,17 @@
+[en]
+CHO_FIN_EXT = Choosing finished. Current map will be extended to next %.0f minutes
+CHO_FIN_NEXT = Choosing finished. The nextmap will be %s
+CHOSE_EXT = %s chose map extending
+X_CHOSE_X = %s chose %s
+CHOOSE_NEXTM = AMX Choose nextmap
+EXTED_MAP = Extend map %s
+TIME_CHOOSE = It's time to choose the nextmap...
+
+[cn]
+CHO_FIN_EXT = 选择结束. 当前地图将被延长 %.0f 分钟
+CHO_FIN_NEXT = 选择结束. 下一张地图是 %s
+CHOSE_EXT = %s 选择延长当前地图
+X_CHOSE_X = %s 选择了 %s
+CHOOSE_NEXTM = AMX 选择下一张地图
+EXTED_MAP = 延长地图 %s
+TIME_CHOOSE = 到选择下一张地图的时候了...

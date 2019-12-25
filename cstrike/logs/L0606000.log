@@ -1,0 +1,16 @@
+L 06/06/2007 - 11:46:19: Log file started (file "logs\L0606000.log") (game "cstrike") (version "47/1.1.2.5/3647")
+L 06/06/2007 - 11:46:19: Server cvar "sv_maxrate" = "25000"
+L 06/06/2007 - 11:46:19: Server cvar "sv_minrate" = "25000"
+L 06/06/2007 - 11:46:19: Server cvar "sv_contact" = "txx@txxgame.com"
+L 06/06/2007 - 11:46:19: Server cvar "mp_friendlyfire" = "1"
+L 06/06/2007 - 11:46:19: Server cvar "mp_freezetime" = "10"
+L 06/06/2007 - 11:46:19: Server cvar "mp_roundtime" = "1.75"
+L 06/06/2007 - 11:46:19: Server cvar "mp_buytime" = "0.25"
+L 06/06/2007 - 11:46:19: Server cvar "mp_c4timer" = "35"
+L 06/06/2007 - 11:46:19: Server cvar "mp_forcechasecam" = "2"
+L 06/06/2007 - 11:46:19: Server cvar "mp_forcecamera" = "2"
+L 06/06/2007 - 11:46:19: Server cvar "mp_autoteambalance" = "0"
+L 06/06/2007 - 11:46:19: Server cvar "mp_limitteams" = "0"
+L 06/06/2007 - 11:46:26: World triggered "Round_Start"
+L 06/06/2007 - 11:46:41: Server shutdown
+L 06/06/2007 - 11:46:41: Log file closed

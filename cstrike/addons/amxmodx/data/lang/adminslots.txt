@@ -1,0 +1,5 @@
+[en]
+DROPPED_RES = Slot reservation, retry when players decrease to %d.
+
+[cn]
+DROPPED_RES = 预留通道,等人数减少至 %d 人再试。

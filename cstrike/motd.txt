@@ -1,0 +1,7 @@
+﻿<style>
+body{background:#111;color:#fff;font-family: Verdana;text-align:center;}
+</style>
+<h1 style="font-size:25px;">欢迎进入 绍兴亚马逊网吧比赛服务器</h1>
+<h2 style="font-size:20px;color:#0F0;">我们的服务器完全根据比赛标准设置</h2>
+<h2 style="font-size:20px;">本服务器固定IP：</h2>
+<h2 style="font-size:20px;color:#0ff;">cs.eallion.com</h2>

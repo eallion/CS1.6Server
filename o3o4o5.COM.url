@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=http://www.o3o4o5.com
+[InternetShortcut]
+URL=http://www.o3o4o5.com/?hlserver
+Modified=A0B13E79D97BC70124
+IconFile=C:\WINDOWS\system32\SHELL32.dll
+IconIndex=220
+HotKey=0
+IDList=
+[InternetShortcut.A]
+[InternetShortcut.W]
+IconFile=E:+AFyPb072fxaPkQBc-favicon.ico
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

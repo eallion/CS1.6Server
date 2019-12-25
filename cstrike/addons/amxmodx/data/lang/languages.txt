@@ -1,0 +1,7 @@
+[en]
+LANG_NAME = English
+LANG_NAME_NATIVE = English
+
+[cn]
+LANG_NAME = 简体中文
+LANG_NAME_NATIVE = 简体中文

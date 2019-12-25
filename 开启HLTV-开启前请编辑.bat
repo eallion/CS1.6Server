@@ -1,0 +1,1 @@
+start "HLTV" /MIN/HIGH hltv.exe +connect cs.eallion.com +serverpassword mima -port 27020

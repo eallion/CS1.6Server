@@ -1,0 +1,5 @@
+[en]
+STOP_FLOOD = Stop flooding the server!
+
+[cn]
+STOP_FLOOD = 请停止向服务器灌水!

@@ -1,0 +1,39 @@
+[en]
+KICK_PLAYER = Kick Player
+BAN_PLAYER = Ban Player
+SLAP_SLAY = Slap/Slay Player
+TEAM_PLAYER = Team Player
+CHANGEL = Changelevel^n
+VOTE_MAPS = Vote for maps
+VOTE_KICK = Vote Kick Player
+VOTE_BAN = Vote Ban Player
+SERVER_COM = Server Commands
+SPECH_STUFF = Speech Stuff
+CLIENT_COM = Client Commands
+CVARS_SET = Cvars Settings
+CONFIG = Configuration
+LANG_SET = Language Settings
+STATS_SET = Stats Settings
+PAUSE_PLUG = Pause Plugins
+RES_WEAP = Restrict Weapons
+TELE_PLAYER = Teleport Player
+
+[cn]
+KICK_PLAYER = 踢出玩家
+BAN_PLAYER = 封禁玩家
+SLAP_SLAY = 处死/伤害 玩家
+TEAM_PLAYER = 团队控制
+CHANGEL = 更换地图^n
+VOTE_MAPS = 投票换地图
+VOTE_KICK = 投票踢出玩家
+VOTE_BAN = 投票封禁玩家
+SERVER_COM = 服务器端命令
+SPECH_STUFF = 语音素材
+CLIENT_COM = 客户端命令
+CVARS_SET = 参数设置
+CONFIG = 配置
+LANG_SET = 语言设置
+STATS_SET = 数据统计设置
+PAUSE_PLUG = 暂停插件
+RES_WEAP = 限制武器
+TELE_PLAYER = 传送玩家
